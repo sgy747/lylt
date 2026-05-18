@@ -46,8 +46,7 @@ CGTN,http://60.10.139.113:8801/hls/14/index.m3u8
 青海卫视,http://60.10.139.113:8801/hls/56/index.m3u8
 宁夏卫视,http://60.10.139.113:8801/hls/57/index.m3u8
 内蒙古卫视,http://60.10.139.113:8801/hls/55/index.m3u8
-
-CCTV1,http://m.061899.xyz/mg/cctv1
+黄渤,http://tv.zimtv.cn/tv/player/api/huya.php?id=11352876
 CCTV2,http://m.061899.xyz/mg/cctv2
 CCTV3,http://m.061899.xyz/mg/cctv3
 CCTV4,http://m.061899.xyz/mg/cctv4
@@ -93,9 +92,8 @@ CCTV17,http://m.061899.xyz/mg/cctv17
 西藏卫视,http://m.061899.xyz/mg/xzws
 兵团卫视,http://m.061899.xyz/mg/btws
 吉林卫视,http://m.061899.xyz/mg/jlws
-内蒙古视,http://m.061899.xyz/mg/nmgws
+内蒙古卫视,http://m.061899.xyz/mg/nmgws
 黑龙江卫视,http://m.061899.xyz/mg/hljws
-
 CCTV1,http://j.s.bkpcp.top/jj/cctv1
 CCTV2,http://j.s.bkpcp.top/jj/cctv2
 CCTV3,http://j.s.bkpcp.top/jj/cctv3
@@ -114,7 +112,6 @@ CCTV14,http://j.s.bkpcp.top/jj/cctv14
 CCTV15,http://j.s.bkpcp.top/jj/cctv15
 CCTV16,http://j.s.bkpcp.top/jj/cctv16
 CCTV17,http://j.s.bkpcp.top/jj/cctv17
-
 北京卫视,http://j.s.bkpcp.top/jj/bjws
 东方卫视,http://j.s.bkpcp.top/jj/dfws
 浙江卫视,http://j.s.bkpcp.top/jj/zjws
@@ -177,9 +174,8 @@ CCTV17,http://t.061899.xyz/tl/tl.php?id=cctv17
 新疆卫视,http://t.061899.xyz/tl/tl.php?id=xjws
 吉林卫视,http://t.061899.xyz/tl/tl.php?id=jlws
 西藏卫视,http://t.061899.xyz/tl/tl.php?id=xzws
-内蒙古视,http://t.061899.xyz/tl/tl.php?id=nmgws
+内蒙古卫视,http://t.061899.xyz/tl/tl.php?id=nmgws
 黑龙江卫视,http://t.061899.xyz/tl/tl.php?id=hljws
-
 临沂频道,#genre#
 兰陵综合,http://23.247.129.70:2026/live5/shandong/difang.php?id=lyllzh
 临沭综合,http://23.247.129.70:2026/live5/shandong/difang.php?id=lyls1
@@ -199,7 +195,7 @@ CCTV17,http://t.061899.xyz/tl/tl.php?id=cctv17
 剧集_地下交通站,http://tv.zimtv.cn/tv/player/api/huya.php?id=11342433
 剧集_邻里一家亲,http://tv.zimtv.cn/tv/player/api/huya.php?id=11342426
 搞笑_陈翔六点半,http://tv.zimtv.cn/tv/player/api/huya.php?id=11274154
-电影频道,#genre#
+电影频道，#类型#
 周星驰,http://tv.zimtv.cn/tv/player/api/huya.php?id=11342412
 成龙,http://tv.zimtv.cn/tv/player/api/huya.php?id=11342386
 周润发,http://tv.zimtv.cn/tv/player/api/huya.php?id=11342387
