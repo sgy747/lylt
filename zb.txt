@@ -67,7 +67,7 @@ CCTV17,http://47.104.178.59:3566/673168256
 东南卫视,http://47.104.178.59:3566/849116810
 海南卫视,http://47.104.178.59:3566/947472502
 海峡卫视,http://47.104.178.59:3566/849119120
-中国农林卫视,http://47.104.178.59:3566/956904896
+农林卫视,http://47.104.178.59:3566/956904896
 兵团卫视,http://47.104.178.59:3566/956923145
 宁夏卫视,http://47.104.178.59:3566/738910535
 重庆卫视,http://47.104.178.59:3566/738910914
@@ -76,6 +76,9 @@ CCTV17,http://47.104.178.59:3566/673168256
 
 轮播频道,#genre#,
 民兵葛二蛋,http://8.155.43.98:35455/huya/11602072
+民兵葛二蛋,http://222.186.39.21:35466/huya/11602072
+民兵葛二蛋,http://39.153.130.167:35455/huya/11602072
+民兵葛二蛋,http://live.ottiptv.cc/huya/11602072
 纪晓岚,http://live.metshop.top/huya/11342396
 纪晓岚,https://live.ottiptv.cc/yy/1354143978
 纪晓岚,https://live.ottiptv.cc/yy/1382781415
@@ -92,6 +95,10 @@ CCTV17,http://47.104.178.59:3566/673168256
 少年包青天第三部,https://live.ottiptv.cc/yy/1382736814
 少年包青天第三部,https://live.ottiptv.cc/yy/1382851540
 少年四大名捕,https://live.ottiptv.cc/yy/1354936203
+大宋提刑官,http://8.155.43.98:35455/huya/26355856
+大宋提刑官,http://222.186.39.21:35466/huya/26355856
+大宋提刑官,http://39.153.130.167:35455/huya/26355856
+大宋提刑官,http://live.ottiptv.cc/huya/26355856
 爱情公寓,http://live.metshop.top/huya/11336726
 倚天屠龙记,http://live.metshop.top/huya/11342403
 天龙八部,https://live.ottiptv.cc/yy/68260522
@@ -108,6 +115,9 @@ CCTV17,http://47.104.178.59:3566/673168256
 笑傲江湖,http://live.metshop.top/huya/26355790
 神雕侠侣,http://live.metshop.top/huya/11352964
 雪豹,http://live.metshop.top/huya/29580970
+狂飙,http://8.155.43.98:35455/yy/1354936131
+狂飙,http://222.186.39.21:35466/yy/1354936131
+狂飙,http://shorturl.jxpan.vip:880/r/baoshi_aio/yy/1354936131
 狂飙,https://live.ottiptv.cc/yy/1354806550
 狂飙,https://live.ottiptv.cc/yy/1382626335
 河山,https://live.ottiptv.cc/yy/1382749952
