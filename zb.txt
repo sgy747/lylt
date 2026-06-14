@@ -96,6 +96,8 @@ CCTV17,http://47.104.178.59:3566/673168256
 大宋提刑官,http://222.186.39.21:35466/huya/26355856
 大宋提刑官,http://live.ottiptv.cc/huya/26355856
 爱情公寓,http://live.metshop.top/huya/11336726
+家有儿女,http://222.186.39.21:35466/huya/11352872
+家有儿女,http://live.ottiptv.cc/huya/11352872
 倚天屠龙记,http://live.metshop.top/huya/11342403
 天龙八部,https://live.ottiptv.cc/yy/68260522
 射雕英雄传,https://live.ottiptv.cc/yy/1351762426
