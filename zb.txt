@@ -75,6 +75,7 @@ CCTV17,http://47.104.178.59:3566/673168256
 
 
 轮播频道,#genre#,
+民兵葛二蛋,http://8.155.43.98:35455/huya/11602072
 老三国,http://tv.zimtv.cn/tv/player/api/huya.php?id=11602081
 新三国,http://tv.zimtv.cn/tv/player/api/huya.php?id=11352944
 新水浒,http://tv.zimtv.cn/tv/player/api/huya.php?id=11342384
@@ -144,8 +145,6 @@ CCTV17,http://47.104.178.59:3566/673168256
 无敌县令,https://live.ottiptv.cc/yy/1354932390
 电影频道,#genre#,
 影迷电影,http://47.104.178.59:3566/952383261
-动作电影,http://47.104.178.59:3566/644368714
-家庭影院,http://47.104.178.59:3566/644368373
 狄仁杰,https://live.ottiptv.cc/yy/1354936116
 举起手来,https://live.ottiptv.cc/yy/1382736877
 精武英雄,https://live.ottiptv.cc/yy/1382736873
