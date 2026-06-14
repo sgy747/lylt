@@ -162,12 +162,14 @@ CCTV17,http://47.104.178.59:3566/673168256
 李连杰,https://live.ottiptv.cc/yy/74613175
 林正英,https://live.ottiptv.cc/yy/1354932444
 林正英,https://live.ottiptv.cc/yy/1351505899
+林正英,http://8.155.43.98:35455/yy/1351505899
 徐峥,https://live.ottiptv.cc/yy/1382736856
 沈腾,http://live.ottiptv.cc/huya/11601968
 黄渤,http://live.ottiptv.cc/huya/11352876
 徐峥,http://live.ottiptv.cc/huya/11602043
+周星驰,http://222.186.39.21:35466/huya/11342412
 周星驰,http://live.ottiptv.cc/huya/11342412
-林正英,http://8.155.43.98:35455/yy/1351505899
+
 小品频道,#genre#,
 欢乐集结号,https://live.ottiptv.cc/yy/1382741642
 欢乐集结号,https://live.ottiptv.cc/yy/1354931582
