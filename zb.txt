@@ -17,6 +17,7 @@ CCTV15,http://go.bkpcp.top/mg/cctv15
 CCTV16,http://go.bkpcp.top/mg/cctv16 
 CCTV17,http://go.bkpcp.top/mg/cctv17 
 CCTV-5+,http://go.bkpcp.top/mg/cctv5p 
+山东教育,http://47.104.178.59:3566/609154353
 山东卫视,http://go.bkpcp.top/mg/sdws 
 北京卫视,http://go.bkpcp.top/mg/bjws 
 东方卫视,http://go.bkpcp.top/mg/dfws 
