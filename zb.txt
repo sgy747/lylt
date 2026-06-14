@@ -16,7 +16,7 @@ CCTV14,http://go.bkpcp.top/mg/cctv14
 CCTV15,http://go.bkpcp.top/mg/cctv15 
 CCTV16,http://go.bkpcp.top/mg/cctv16 
 CCTV17,http://go.bkpcp.top/mg/cctv17 
-CCTV-5+,http://go.bkpcp.top/mg/cctv5p 
+CCTV5+,http://go.bkpcp.top/mg/cctv5p 
 山东教育,http://47.104.178.59:3566/609154353
 山东卫视,http://go.bkpcp.top/mg/sdws 
 北京卫视,http://go.bkpcp.top/mg/bjws 
@@ -76,10 +76,6 @@ CCTV17,http://47.104.178.59:3566/673168256
 
 轮播频道,#genre#,
 民兵葛二蛋,http://8.155.43.98:35455/huya/11602072
-老三国,http://tv.zimtv.cn/tv/player/api/huya.php?id=11602081
-新三国,http://tv.zimtv.cn/tv/player/api/huya.php?id=11352944
-新水浒,http://tv.zimtv.cn/tv/player/api/huya.php?id=11342384
-纪晓岚,http://tv.zimtv.cn/tv/player/api/huya.php?id=11342396
 纪晓岚,http://live.metshop.top/huya/11342396
 纪晓岚,https://live.ottiptv.cc/yy/1354143978
 纪晓岚,https://live.ottiptv.cc/yy/1382781415
@@ -108,10 +104,6 @@ CCTV17,http://47.104.178.59:3566/673168256
 士兵突击,http://live.metshop.top/huya/11342430
 康熙王朝,http://live.metshop.top/huya/11352940
 康熙微服私访记,https://live.ottiptv.cc/yy/1352811698
-鬼吹灯之精绝古城,http://live.metshop.top/huya/11352871
-鬼吹灯之怒晴湘西,http://live.metshop.top/huya/11602075
-鬼吹灯之龙岭迷窟,http://live.metshop.top/huya/29465863
-鬼吹灯之云南虫谷,http://live.metshop.top/huya/11352898
 薛仁贵传奇,https://live.ottiptv.cc/yy/1355260662
 笑傲江湖,http://live.metshop.top/huya/26355790
 神雕侠侣,http://live.metshop.top/huya/11352964
@@ -136,7 +128,6 @@ CCTV17,http://47.104.178.59:3566/673168256
 无双花木兰,https://live.ottiptv.cc/yy/1382749917
 王牌保镖,https://live.ottiptv.cc/yy/1382749913
 女医明妃传,https://live.ottiptv.cc/yy/1382736861
-鹿鼎记,https://live.ottiptv.cc/yy/1354658049
 宰相刘罗锅,https://live.ottiptv.cc/yy/1382745191
 西游记后传,https://live.ottiptv.cc/yy/1382736846
 父母爱情,https://live.ottiptv.cc/yy/1354926650
@@ -149,6 +140,11 @@ CCTV17,http://47.104.178.59:3566/673168256
 举起手来,https://live.ottiptv.cc/yy/1382736877
 精武英雄,https://live.ottiptv.cc/yy/1382736873
 夏洛特烦恼,https://live.ottiptv.cc/yy/1354936201
+鹿鼎记,https://live.ottiptv.cc/yy/1354658049
+鬼吹灯之精绝古城,http://live.metshop.top/huya/11352871
+鬼吹灯之怒晴湘西,http://live.metshop.top/huya/11602075
+鬼吹灯之龙岭迷窟,http://live.metshop.top/huya/29465863
+鬼吹灯之云南虫谷,http://live.metshop.top/huya/11352898
 唐伯虎,https://live.ottiptv.cc/yy/1382735548
 洪金宝福星系列,https://live.ottiptv.cc/yy/1354924839
 赌神,https://live.ottiptv.cc/yy/1354889044
