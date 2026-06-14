@@ -75,9 +75,7 @@ CCTV17,http://47.104.178.59:3566/673168256
 
 
 轮播频道,#genre#,
-民兵葛二蛋,http://8.155.43.98:35455/huya/11602072
 民兵葛二蛋,http://222.186.39.21:35466/huya/11602072
-民兵葛二蛋,http://39.153.130.167:35455/huya/11602072
 民兵葛二蛋,http://live.ottiptv.cc/huya/11602072
 纪晓岚,http://live.metshop.top/huya/11342396
 纪晓岚,https://live.ottiptv.cc/yy/1354143978
@@ -95,15 +93,15 @@ CCTV17,http://47.104.178.59:3566/673168256
 少年包青天第三部,https://live.ottiptv.cc/yy/1382736814
 少年包青天第三部,https://live.ottiptv.cc/yy/1382851540
 少年四大名捕,https://live.ottiptv.cc/yy/1354936203
-大宋提刑官,http://8.155.43.98:35455/huya/26355856
 大宋提刑官,http://222.186.39.21:35466/huya/26355856
-大宋提刑官,http://39.153.130.167:35455/huya/26355856
 大宋提刑官,http://live.ottiptv.cc/huya/26355856
 爱情公寓,http://live.metshop.top/huya/11336726
 倚天屠龙记,http://live.metshop.top/huya/11342403
 天龙八部,https://live.ottiptv.cc/yy/68260522
 射雕英雄传,https://live.ottiptv.cc/yy/1351762426
 射雕英雄传,https://live.ottiptv.cc/yy/1354210357
+西游记,http://222.186.39.21:35466/huya/20985836
+西游记,http://live.ottiptv.cc/huya/20985836
 济公,https://live.ottiptv.cc/yy/1355265814
 亮剑,http://live.metshop.top/huya/30080238
 亮剑,http://cfss.cc/cdn/huya/30080238.flv
