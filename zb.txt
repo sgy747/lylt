@@ -19,6 +19,7 @@ CCTV17,http://go.bkpcp.top/mg/cctv17
 CCTV5+,http://go.bkpcp.top/mg/cctv5p 
 山东教育,http://47.104.178.59:3566/609154353
 山东卫视,http://go.bkpcp.top/mg/sdws 
+山东齐鲁,https://tstreamlive302.iqilu.com/291/5de861e29cdd4f9589327c8dd783172a/playlist.m3u8?k=5f1bfb6325d5ab85875ff5901d4b2c7d&t=1782442866&
 北京卫视,http://go.bkpcp.top/mg/bjws 
 东方卫视,http://go.bkpcp.top/mg/dfws 
 浙江卫视,http://go.bkpcp.top/mg/zjws 
