@@ -37,7 +37,6 @@ CCTV15,http://go.bkpcp.top/mg/cctv15
 CCTV17,http://go.bkpcp.top/mg/cctv17 
 CCTV5+,http://go.bkpcp.top/mg/cctv5p 
 山东频道,#genre#,
-山东卫视,http://173.208.208.10:82/live/sdws.m3u8?jsbt=1782517774&jsbk=fe6c179a0b8a056d0a6430a7cd53ef1f&from=jsbv2&app=&version=&ev=
 山东新闻,https://tfx23ge51hct1gezdnp3qge3uymmuqt3gkampptwzc3jugy3nh4mtpfs8k.100ycdn.com/streamlive302.iqilu.com/21/ae3cd441fafb45f29168af2a3bf8e116/playlist.m3u8?n=7a709045a989178e600deab1c45ef1a6&m=1782478331&&wsSession=09b505c55e07e5737570c601-178247833215787&wsIPSercert=e519dfa151b5086b7c1abb1c3a86932c&wsBindIP=2&wsserid=1168294192812998336
 山东教育,http://47.104.178.59:3566/609154353
 临沂综合,https://m3u8-channel.lytv.tv/nmip-media/channellive/channel111841/playlist.m3u8
@@ -157,9 +156,6 @@ CCTV5+,http://go.bkpcp.top/mg/cctv5p
 炊事班的故事3,https://live.ottiptv.cc/yy/1382736716
 无敌县令,https://live.ottiptv.cc/yy/1354932390
 电影频道,#genre#,
-CHC动作电影,http://173.208.128.194:82/live/chcdz.m3u8?jsbt=1782517922&jsbk=2efc9a240ec637edbe011cd9ceccb7c7&from=jsbv2&app=&version=&ev=
-CHC影迷电影,http://69.30.245.194:82/live/chchd.m3u8?jsbt=1782518225&jsbk=16adc7408ece3ba63d2517f5bed06029&from=jsbv2&app=&version=&ev=
-CHC家庭影院,http://69.30.245.194:82/live/chcjt.m3u8?jsbt=1782518069&jsbk=98044ca1034fd4f859e12e3ba24bd4e4&from=jsbv2&app=&version=&ev=
 CHC影迷电影,http://47.104.178.59:3566/952383261
 狄仁杰,https://live.ottiptv.cc/yy/1354936116
 举起手来,https://live.ottiptv.cc/yy/1382736877
