@@ -38,7 +38,7 @@ CCTV17,http://go.bkpcp.top/mg/cctv17
 CCTV5+,http://go.bkpcp.top/mg/cctv5p 
 
 山东频道,#genre#,
-山东卫视,http://120.211.62.180:8000/hls/38/index.m3u8
+山东卫视,http://go.bkpcp.top/mg/sdws 
 山东卫视,http://cdn6.bkpcp.top/tl/tuiliu.php?id=sdws
 山东新闻,https://tfx23ge51hct1gezdnp3qge3uymmuqt3gkampptwzc3jugy3nh4mtpfs8k.100ycdn.com/streamlive302.iqilu.com/21/ae3cd441fafb45f29168af2a3bf8e116/playlist.m3u8?n=7a709045a989178e600deab1c45ef1a6&m=1782478331&&wsSession=09b505c55e07e5737570c601-178247833215787&wsIPSercert=e519dfa151b5086b7c1abb1c3a86932c&wsBindIP=2&wsserid=1168294192812998336
 山东教育,http://47.104.178.59:3566/609154353
